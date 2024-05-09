@@ -6,8 +6,8 @@ Nome | Exemplo | Descrição
 :---:|:-------:|:--------:
 MVP | ![Static Badge](https://img.shields.io/badge/MVP-2023--12--31-blue) | Most Valuable Player - Melhor desenvolvedor do time no período.
 Purple Heart | ![Static Badge](https://img.shields.io/badge/PH-2023--12--31-8A2BE2) | Pessoa que teve uma dedicação superior a normal em um momento de crise.
-Out of Box | ![Static Badge](https://img.shields.io/badge/Out_of_Box-2023--12--31-orange) | Pessoa que trouxe uma ideia nova com grande valor ao projeto.
-Master of Language | ![Static Badge](https://img.shields.io/badge/Master_of_Python-2023--12--31-3670A0?logo=python&logoColor=ffdd54) | Pessoa que demonstrou conhecimentos aprofundados em determinada linguagem (exemplo python, C, JAva, etc.).
+Out of the Box | ![Static Badge](https://img.shields.io/badge/Out_of_the_Box-2023--12--31-orange) | Pessoa que trouxe uma ideia nova com grande valor ao projeto.
+Master of Language | ![Static Badge](https://img.shields.io/badge/Master_of_Python-2023--12--31-3670A0?logo=python&logoColor=ffdd54) | Pessoa que demonstrou conhecimentos aprofundados em determinada linguagem (exemplo python, C, Java, etc.).
 
 Lembrando que você pode criar suas próprias badges, basta editar a lista a cima no seu fork com suas badges. 
 
