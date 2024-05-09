@@ -1,10 +1,15 @@
 # Developer Badges
-Um sistema de reconhecimento baseado em badges do git para que os usuários possam expor suas conquistas, e ao mesmo tempo que seja de forma auditável através de uma forma pública no GIT de reconhecimentos. 
+Um sistema de reconhecimento, inspirados nas barretas militares, baseado em badges do git para que os usuários possam expor suas conquistas, e ao mesmo tempo que seja de forma auditável através de uma forma pública no GIT de reconhecimentos. 
 
 # Lista de badges e suas explicações:
 Nome | Exemplo | Descrição
 :---:|:-------:|:--------:
 MVP | ![Static Badge](https://img.shields.io/badge/MVP-2023--12--31-blue) | Most Valuable Player - Melhor desenvolvedor do time no período.
+Purple Heart | ![Static Badge](https://img.shields.io/badge/PH-2023--12--31-8A2BE2) | Pessoa que teve uma dedicação superior a normal em um momento de crise.
+Out of Box | ![Static Badge](https://img.shields.io/badge/Out_of_Box-2023--12--31-orange) | Pessoa que trouxe uma ideia nova com grande valor ao projeto.
+Master of Language | ![Static Badge](https://img.shields.io/badge/Master_of_Python-2023--12--31-3670A0?logo=python&logoColor=ffdd54) | Pessoa que demonstrou conhecimentos aprofundados em determinada linguagem (exemplo python, C, JAva, etc.).
+
+Lembrando que você pode criar suas próprias badges, basta editar a lista a cima no seu fork com suas badges. 
 
 # Como reconhecer outras pessoas
 Para isso você deverá fazer um fork do presente repositório e alterar o arquivo badges.md adicionando lá os reconhecimentos que você realizar, será através desse arquivo que a comunidade poderá auditar o reconhecimento. 
@@ -37,3 +42,6 @@ Para utilização basta copiar o código da badge da página badges.md da pessoa
 
 ### Exemplo: 
 [![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue)](https://github.com/Andriow/DeveloperBadges/badges.md)
+
+# Referências:
+Um obrigado em especial pela inspiração ao repositório: [markdown-badges](https://github.com/Ileriayo/markdown-badges)
