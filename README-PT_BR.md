@@ -31,9 +31,9 @@ Bloco de código para que a pessoa possa utilizar a badge em markdown e em HTML
 ### Exemplo: 
 ![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue) to [Andriow](https://github.com/Andriow) 
 ````
-[![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue)](https://github.com/Andriow/DeveloperBadges/badges.md)
+[![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue)](https://github.com/Andriow/DeveloperBadges/blob/main/badges.md)
 
-<a href='https://github.com/Andriow/DeveloperBadges/badges.md'><img alt="Static Badge" src="https://img.shields.io/badge/Example-2023--12--31-blue"></a>
+<a href='https://github.com/Andriow/DeveloperBadges/blob/main/badges.md'><img alt="Static Badge" src="https://img.shields.io/badge/Example-2023--12--31-blue"></a>
 ````
 # Como utilizar as badges
 A badge recebida pode ser utilizada em qualquer local que aceite código markdown ou HTML, uma sugestão é de utilizar no seu portfolio ou página de perfil no github, mas também podem ser utilizadas em assinaturas em projetos do github ou outras ferramentas.
@@ -41,7 +41,7 @@ A badge recebida pode ser utilizada em qualquer local que aceite código markdow
 Para utilização basta copiar o código da badge da página badges.md da pessoa que concedeu a badge para você e utilizar no local em que preferir, lembrando sempre de adicionar o link de auditoria, para que todos saibam que foi um reconhecimento legítimo.
 
 ### Exemplo: 
-[![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue)](https://github.com/Andriow/DeveloperBadges/badges.md)
+[![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue)](https://github.com/Andriow/DeveloperBadges/blob/main/badges.md)
 
 # Referências:
 Um obrigado em especial pela inspiração ao repositório: [markdown-badges](https://github.com/Ileriayo/markdown-badges)
