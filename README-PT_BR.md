@@ -38,6 +38,8 @@ Bloco de código para que a pessoa possa utilizar a badge em markdown e em HTML
 # Como utilizar as badges
 A badge recebida pode ser utilizada em qualquer local que aceite código markdown ou HTML, uma sugestão é de utilizar no seu portfolio ou página de perfil no github, mas também podem ser utilizadas em assinaturas em projetos do github ou outras ferramentas.
 
+Você pode customizar o seu perfil no github e adicionar nele as suas badges, para criar uma página de perfil no github, você pode seguir os passos indicados [na documentação oficial do github](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme)
+
 Para utilização basta copiar o código da badge da página badges.md da pessoa que concedeu a badge para você e utilizar no local em que preferir, lembrando sempre de adicionar o link de auditoria, para que todos saibam que foi um reconhecimento legítimo.
 
 ### Exemplo: 
