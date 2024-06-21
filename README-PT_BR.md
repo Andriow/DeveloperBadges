@@ -25,12 +25,14 @@ Além de conter a badge, o arquivo badges.md também deverá conter instruções
 
 ### Formato:
 'BADGE' to 'github da pessoa que recebeu o reconhecimento'
+> Motivador do reconhecimento
 ````
 Bloco de código para que a pessoa possa utilizar a badge em markdown e em HTML
 ````
 
 ### Exemplo: 
 ![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue) to [Andriow](https://github.com/Andriow) 
+> Reconhecimento de teste
 ````
 [![Static Badge](https://img.shields.io/badge/Example-2023--12--31-blue)](https://github.com/Andriow/DeveloperBadges/blob/main/badges.md)
 
