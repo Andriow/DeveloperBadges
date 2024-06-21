@@ -8,7 +8,7 @@ MVP | ![Static Badge](https://img.shields.io/badge/MVP-2023--12--31-blue) | Most
 Purple Heart | ![Static Badge](https://img.shields.io/badge/PH-2023--12--31-8A2BE2) | Pessoa que teve uma dedicação superior a normal em um momento de crise.
 Out of the Box | ![Static Badge](https://img.shields.io/badge/Out_of_the_Box-2023--12--31-orange) | Pessoa que trouxe uma ideia nova com grande valor ao projeto.
 Master of Language | ![Static Badge](https://img.shields.io/badge/Master_of_Python-2023--12--31-3670A0?logo=python&logoColor=ffdd54) | Pessoa que demonstrou conhecimentos aprofundados em determinada linguagem (exemplo python, C, Java, etc.).
-The Flash | ![Static Badge](https://img.shields.io/badge/The_Flash-2024--06--26-a51818) | Pessoa que realizou uma determinada tarefa em tempo recorde, sem perder qualidade na entrega.
+The Flash | ![Static Badge](https://img.shields.io/badge/The_Flash-2023--12--31-a51818) | Pessoa que realizou uma determinada tarefa em tempo recorde, sem perder qualidade na entrega.
 
 Lembrando que você pode criar suas próprias badges, basta editar a lista a cima no seu fork com suas badges. 
 
